@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=87CEEB&center=true&vCenter=true&width=750&lines=Data+Science+Enthusiast;Backend+Developer+with+Django;Machine+Learning+Explorer;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=87CEEB&center=true&vCenter=true&width=750&lines=Data+Science+Enthusiast;Exploring+AI;Problem+Solver;Always+Learning" />
 </p>
+
 
 ---
 
 ## 👩‍💻 About Me
 
 - 📍 From **Karachi, Pakistan 🇵🇰**
-- 🧠 Strong interest in **Data Science, Machine Learning & Backend Systems**
+- 🧠 Strong interest in **Data Science, Machine Learning**
 - 💻 Currently building an **AI-powered Asset Management System**
-- 🔗 Backend: **Django + PostgreSQL**
 - 📊 Data-focused mindset — from **analysis → models → deployment**
 - ⚙️ Learning **DevOps & scalable system design**
 
